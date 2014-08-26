@@ -1,0 +1,24 @@
+{
+  "name": "yc-cache",
+  "version": "0.0.1",
+  "description": "yc tool for cache",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yc-team/yc-cache.git"
+  },
+  "dependencies": {
+  },
+  "keywords": [
+    "yc",
+    "cache"
+  ],
+  "author": "zhangyaochun",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/yc-team/yc-cache/issues"
+  }
+}
